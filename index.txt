@@ -1,2 +1,6 @@
 this is an index file
+<<<<<<< HEAD
 this is local line
+=======
+this is remote line
+>>>>>>> d1a32013e28de96f9cf27997047cbf6052846114
